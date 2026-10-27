@@ -137,6 +137,16 @@
 * **Asal Sekolah:** [SMK_1_JENANGAN]
 * **Fun Fact:** [CADEL]
 
+### [13] [264311013] - [EDGAR RIZKI PUTRA NOVARIYANTO]
+<img src="assets/MAHASISWA_BARU/Kelas_1A/264311013-EDGAR RIZKI PUTRA NOVARIYANTO.jpeg" alt="EDGAR RIZKI PUTRA NOVARIYANTO" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [EDGAR_RIZKI_PUTRA_NOVARIYANTO]
+* **NIM:** [264311013]
+* **TTL:** [MADIUN,_17_NOVEMBER_2007]
+* **Nomer Handphone:** [085649416080]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMKN_1_GEGER]
+* **Fun Fact:** [AKU_MAH_PEMULAA]
 
 ---
 
