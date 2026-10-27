@@ -640,27 +640,38 @@
 
 ## 🏫 Kelas 1C
 
-### [07] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### [58] [264311060] - [ADAM_CHESTA_ADITIO]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** [ADAM_CHESTA_ADITIO]
+* **NIM:** [264311060]
+* **TTL:** [BLITAR_10_SEPTEMBER_2007]
+* **Nomer Handphone:** [085735111007]
+* **Nama Kelompok:** [EXPRESS]
+* **Asal Daerah:** [BLITAR]
+* **Asal Sekolah:** [SMKN_1_BLITAR]
+* **Fun Fact:** [HUMAN_MALE]
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [59] [264311061] - [AULIA KURNIAWATI]
+*<img src="assets/MAHASISWA_BARU/Kelas_1C/264311061 - AULIA KURNIAWATI.jpeg" alt="AULIA KURNIAWATI" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [AULIA_KURNIAWATI]
+* **NIM:** [264311061]
+* **TTL:** [MADIUN_15_DESEMBER_2007]
+* **Nomer Handphone:** [081939875301]
+* **Nama Kelompok:** [FLUTTER]
+* **Asal Daerah:** [KAB.MADIUN]
+* **Asal Sekolah:** [SMAN_1_NGLAMES]
+* **Fun Fact:** [SUKA_HAL_HAL_SIMPEL]
+
+### [60] [264311062] - [AZZAM FAUZY]
+*<img src="assets/MAHASISWA_BARU/Kelas_1C/264311062 - AZZAM FAUZY.jpeg" alt="AZZAM FAUZY" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [AZZAM_FAUZY]
+* **NIM:** [264311062]
+* **TTL:** [MAGETAN_24_JANUARI_2008]
+* **Nomer Handphone:** [085859549115]
+* **Nama Kelompok:** [VUE]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [MAN_2_KOTA_MADIUN]
+* **Fun Fact:** [BAIK_HATI]
 
 ### [09] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
