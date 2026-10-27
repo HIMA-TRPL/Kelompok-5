@@ -203,7 +203,137 @@
 * **Asal Sekolah:** [SMK_PGRI_2_PONOROGO]
 * **Fun Fact:** [SUKA_LAGU_LANA_DEL_REY]
 
+### [19] [264311019] - [KHANSA QAIS FERNANDA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311019 - KHANSA QAIS FERNANDA.jpeg" alt="KHANSA QAIS FERNANDA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [KHANSA_QAIS_FERNANDA]
+* **NIM:** [264311019]
+* **TTL:** [MADIUN,_21_FEBRUARI_2008]
+* **Nomer Handphone:** [083171456397]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [Kab_MADIUN]
+* **Asal Sekolah:** [SMKN_1_WONOASRI]
+* **Fun Fact:** [SUKA_MAIN_GITAR]
 
+### [20] [264311020] - [MAHIJA PARAMA URDHA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311020 - MAHIJA PARAMA URDHA.jpeg" alt="MAHIJA PARAMA URDHA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [MAHIJA_PARAMA_URDHA]
+* **NIM:** [264311020]
+* **TTL:** [PONOROGO,_11_JANUARI_2008]
+* **Nomer Handphone:** [085812827530]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [KAB_MADIUN]
+* **Asal Sekolah:** [SMKS_AL-ISLAM_JORESAN_PONOROGO]
+* **Fun Fact:** [BAIK]
+
+### [21] [264311021] - [MUHAMMAD RIDWAN NAZIM]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311021 - MUHAMMAD RIDWAN NAZIM.jpeg" alt="MUHAMMAD RIDWAN NAZIM" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [MUHAMMAD_RIDWAN_NAZIM]
+* **NIM:** [264311021]
+* **TTL:** [JAKARTA,_25_MEI_2007]
+* **Nomer Handphone:** [085807229272]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_BARAT]
+* **Fun Fact:** [DIPANGGIL_NENGOK]
+
+### [22] [264311022] - [NAILA AZAHRA FITRI]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311022 - NAILA AZAHRA FITRI.jpeg" alt="NAILA AZAHRA FITRI" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [NAILA_AZAHRA_FITRI]
+* **NIM:** [264311022]
+* **TTL:** [BOJONEGORO,_10_OKTOBER_2008]
+* **Nomer Handphone:** [081235681140]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMAN_1_CEPU]
+* **Fun Fact:** [WALLAHUALAM😊🩵]
+
+### [23] [264311023] - [NASHWA NADIA NURLATIFA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311023 - NASHWA NADIA NURLATIFA.jpeg" alt="NASHWA NADIA NURLATIFA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [NASHWA_NADIA_NURLATIFA]
+* **NIM:** [264311023]
+* **TTL:** [BOJONEGORO,_31_MARET_2008]
+* **Nomer Handphone:** [083117678815]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMAN_5_TARUNA_BRAWIJAYA]
+* **Fun Fact:** [LAGI_REWATCH_MARVEL💚]
+
+### [24] [264311024] - [NGAZIMATUL KHUSNA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311024 - NGAZIMATUL KHUSNA.jpeg" alt="NGAZIMATUL KHUSNA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [NGAZIMATUL_KHUSNA]
+* **NIM:** [264311024]
+* **TTL:** [NGAWI,_12_JULI_2007]
+* **Nomer Handphone:** [085737034383]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [NGAWI]
+* **Asal Sekolah:** [MAS_AL-ISLAM_JORESAN_PONOROGO]
+* **Fun Fact:** [BISA_TIDUR_BERDIRI]
+
+### [25] [264311025] - [RAFIQ IMAM ZAINI]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311025 - RAFIQ IMAM ZAINI.jpeg" alt="RAFIQ IMAM ZAINI" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [RAFIQ_IMAM_ZAINI]
+* **NIM:** [264311025]
+* **TTL:** [BALIKPAPAN,21_DESEMBER_2005]
+* **Nomer Handphone:** [089616630873]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_MAOSPATI]
+* **Fun Fact:** [SUKA_PECUT_AI]
+
+### [26] [264311026] - [RAHMA FAUZI CAHYA SAPUTRA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311026 - RAHMA FAUZI CAHYA SAPUTRA.jpeg" alt="RAHMA FAUZI CAHYA SAPUTRA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [RAHMA_FAUZI_CAHYA_SAPUTRA]
+* **NIM:** [264311026]
+* **TTL:** [NGAWI,_20_JULI_2008]
+* **Nomer Handphone:** [085748652781]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [NGAWI]
+* **Asal Sekolah:** [SMAN_1_KARANGJATI]
+* **Fun Fact:** [PENDIEM_YANG_SERING_GERAK]
+
+### [27] [264311027] - [REZA SURYA KURNIAWAN]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311027 - REZA SURYA KURNIAWAN.jpeg" alt="REZA SURYA KURNIAWAN" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [REZA_SURYA_KURNIAWAN]
+* **NIM:** [264311027]
+* **TTL:** [MAGETAN,_28_MARET_2007]
+* **Nomer Handphone:** [0895395151012]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [MAN_2_KOTA_MADIUN]
+* **Fun Fact:** [SUKA_KOPAG]
+
+### [28] [264311028] - [RHAHMA DWI SEKARSARI]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311028 - RHAHMA DWI SEKARSARI.jpeg" alt="RHAHMA DWI SEKARSARI" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [RHAHMA_DWI_SEKARSARI]
+* **NIM:** [264311028]
+* **TTL:** [NGANJUK,_31_JULI_2008]
+* **Nomer Handphone:** [085852424110]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [NGANJUK]
+* **Asal Sekolah:** [SMKN_1_LENGKONG]
+* **Fun Fact:** [MINUM_TEH_GABISA_TIDUR]
+
+### [29] [264311029] - [RIFQI ADYASTA MAHARDIKA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311029 - RIFQI ADYASTA MAHARDIKA.jpeg" alt="RIFQI ADYASTA MAHARDIKA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [RIFQI_ADYASTA_MAHARDIKA]
+* **NIM:** [264311029]
+* **TTL:** [BOJONEGORO,_19_SEPTEMBER_2008]
+* **Nomer Handphone:** [085335808840]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMAN_1_KASIMAN]
+* **Fun Fact:** [PENGEN_JAGO_VIBE_CODING]
+
+### [30] [264311030] - [ZAHRO CHOIRUN LATIFAH]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311030 - ZAHRO CHOIRUN LATIFAH.jpeg" alt="ZAHRO CHOIRUN LATIFAH" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [ZAHRO_CHOIRUN_LATIFAH]
+* **NIM:** [264311030]
+* **TTL:** [MADIUN,_15_MEI_2007]
+* **Nomer Handphone:** [89622274040]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [MAN_1_KOTA_MADIUN]
+* **Fun Fact:** [SUKA_DEBAT]
 
 ---
 
