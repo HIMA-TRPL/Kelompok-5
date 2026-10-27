@@ -103,6 +103,39 @@
 * **Asal Sekolah:** [SMKN_1_KEPANJEN]
 * **Fun Fact:** [SUKA_MENDENGARKAN_MUSIK,_HOBI_OTOMOTIF,_TIDAK_SUKA_BUBUR]
 
+### [10] [264311010] - [DAVA AL MUSTOFFA DACHLAN]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311010-DAVA AL MUSTOFFA DACHLAN.jpeg" alt="DAVA AL MUSTOFFA DACHLAN" style="object-fit:cover;" width="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010 - DAVA_AL_MUSTOFFA_DACHLAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [DAVA_AL_MUSTOFFA_DACHLAN]
+* **NIM:** [264311010]
+* **TTL:** [MAGETAN,_17_MARET_2007]
+* **Nomer Handphone:** [087840888211]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMAN_1_GEGER]
+* **Fun Fact:** [COOL]
+
+### [11] [264311011] - [DHAFIN HASYA ZAKI]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311011-DHAFIN HASYA ZAKI.jpeg" alt="DHAFIN HASYA ZAKI" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [DHAFIN_HASYA_ZAKI]
+* **NIM:** [264311011]
+* **TTL:** [MADIUN,_28_JULI_2007]
+* **Nomer Handphone:** [089699247978]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMAN_5_MADIUN]
+* **Fun Fact:** [RACING_ABIEZ]
+
+### [12] [264311012] - [DIMAS PRAMODYA BAGASKARA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311012-DIMAS PRAMODYA BAGASKARA.jpeg" alt="DIMAS PRAMODYA BAGASKARA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [DIMAS_PRAMODYA_BAGASKARA]
+* **NIM:** [264311012]
+* **TTL:** [PONOROGO,_05_MEI_2008]
+* **Nomer Handphone:** [0881036039069]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMK_1_JENANGAN]
+* **Fun Fact:** [CADEL]
 
 
 ---
