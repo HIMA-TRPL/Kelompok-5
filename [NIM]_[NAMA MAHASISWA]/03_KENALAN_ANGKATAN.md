@@ -105,7 +105,6 @@
 
 ### [10] [264311010] - [DAVA AL MUSTOFFA DACHLAN]
 *<img src="assets/MAHASISWA_BARU/Kelas_1A/264311010-DAVA AL MUSTOFFA DACHLAN.jpeg" alt="DAVA AL MUSTOFFA DACHLAN" style="object-fit:cover;" width="300px">
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010 - DAVA_AL_MUSTOFFA_DACHLAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DAVA_AL_MUSTOFFA_DACHLAN]
 * **NIM:** [264311010]
 * **TTL:** [MAGETAN,_17_MARET_2007]
