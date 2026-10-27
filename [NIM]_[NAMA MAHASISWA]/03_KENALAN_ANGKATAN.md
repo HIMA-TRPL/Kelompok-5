@@ -782,8 +782,8 @@
 * **Asal Sekolah:** [SMKN_1_JENANGAN_PONOROGO]
 * **Fun Fact:** [MALAS_NGODING]
 
-### [71] [264311073] - [JALALLUDDIN AZ-ZAM ZAMI IBNU SU...]
-*<img src="assets/MAHASISWA_BARU/Kelas_1C/264311073 - JALALLUDDIN AZ-ZAM ZAMI IBNU SU....jpeg" alt="JALALLUDDIN AZ-ZAM ZAMI IBNU SU..." style="object-fit:cover;" width="300px">
+### [71] [264311073] - [JALALLUDDIN AZ-ZAM ZAMI IBNU SUTA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1C/264311073 - JALALLUDDIN AZ-ZAM ZAMI IBNU SUTA.jpeg" alt="JALALLUDDIN AZ-ZAM ZAMI IBNU SUTA" style="object-fit:cover;" width="300px">
 * **Nama Lengkap:** [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
 * **NIM:** [264311073]
 * **TTL:** [MADIUN,_21_JULI_2008]
@@ -817,7 +817,6 @@
 
 ### [74] [264311076] - [MUHAMMAD ANDY DWI SUBANDI]
 *<img src="assets/MAHASISWA_BARU/Kelas_1C/264311076 - MUHAMMAD ANDY DWI SUBANDI.jpeg" alt="MUHAMMAD ANDY DWI SUBANDI" style="object-fit:cover;" width="300px">
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311076 - MUHAMMAD_ANDY_DWI_SUBANDI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_ANDY_DWI_SUBANDI]
 * **NIM:** [264311076]
 * **TTL:** [PONOROGO,_7_MARET_2007]
