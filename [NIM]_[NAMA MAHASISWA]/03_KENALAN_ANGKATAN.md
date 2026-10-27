@@ -138,7 +138,7 @@
 * **Fun Fact:** [CADEL]
 
 ### [13] [264311013] - [EDGAR RIZKI PUTRA NOVARIYANTO]
-<img src="assets/MAHASISWA_BARU/Kelas_1A/264311013-EDGAR RIZKI PUTRA NOVARIYANTO.jpeg" alt="EDGAR RIZKI PUTRA NOVARIYANTO" style="object-fit:cover;" width="300px">
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311013-EDGAR RIZKI PUTRA NOVARIYANTO.jpeg" alt="EDGAR RIZKI PUTRA NOVARIYANTO" style="object-fit:cover;" width="300px">
 * **Nama Lengkap:** [EDGAR_RIZKI_PUTRA_NOVARIYANTO]
 * **NIM:** [264311013]
 * **TTL:** [MADIUN,_17_NOVEMBER_2007]
@@ -147,6 +147,63 @@
 * **Asal Daerah:** [MADIUN]
 * **Asal Sekolah:** [SMKN_1_GEGER]
 * **Fun Fact:** [AKU_MAH_PEMULAA]
+
+### [14] [264311014] - [ELVAN SYAHPUTRA IDHAM]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311014-ELVAN SYAHPUTRA IDHAM.jpeg" alt="ELVAN SYAHPUTRA IDHAM" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [ELVAN_SYAHPUTRA_IDHAM]
+* **NIM:** [264311014]
+* **TTL:** [MADIUN,_08_MARET_2008]
+* **Nomer Handphone:** [085141031476]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [KAB_MADIUN]
+* **Asal Sekolah:** [SMKN_1_MEJAYAN]
+* **Fun Fact:** [SUKA_MELUKIS]
+
+### [15] [264311015] - [FAKHRIYATUL MUZAKKINA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311015-FAKHRIYATUL MUZAKKINA.jpeg" alt="FAKHRIYATUL MUZAKKINA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [FAKHRIYATUL_MUZAKKINA]
+* **NIM:** [264311015]
+* **TTL:** [PROBOLINGGO,_16_JULI_2008]
+* **Nomer Handphone:** [8580402815]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [PROBOLINGGO]
+* **Asal Sekolah:** [SMKN_2_KRAKSAAN]
+* **Fun Fact:** [GA_BISA_TIDUR_KLO_GA_NYETEL_MUSIK]
+
+### [16] [264311016] - [FATIKHA ARTEMISIA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311016-FATIKHA ARTEMISIA.jpeg" alt="FATIKHA ARTEMISIA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [FATIKHA_ARTEMISIA]
+* **NIM:** [264311016]
+* **TTL:** [MAGETAN,_16_DESEMBER_2007]
+* **Nomer Handphone:** [085604017960]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_MAOSPATI]
+* **Fun Fact:** [CINTA_KECAP]
+
+### [17] [264311017] - [JELITA PALUPI KUSUMA WARDANI]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311017-JELITA PALUPI KUSUMA WARDANI.jpeg" alt="JELITA PALUPI KUSUMA WARDANI" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [JELITA_PALUPI_KUSUMA_WARDANI]
+* **NIM:** [264311017]
+* **TTL:** [SIDOARJO,_17_MARET_2008]
+* **Nomer Handphone:** [082331467589]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [SIDOARJO]
+* **Asal Sekolah:** [SMK_SENOPATI_SIDOARJO]
+* **Fun Fact:** [SUKA_BUBUDUDU]
+
+### [18] [264311018] - [JULIAN RAKA NUGRAHA]
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311018 - JULIAN RAKA NUGRAHA.jpeg" alt="JULIAN RAKA NUGRAHA" style="object-fit:cover;" width="300px">
+* **Nama Lengkap:** [JULIAN_RAKA_NUGRAHA]
+* **NIM:** [264311018]
+* **TTL:** [PONOROGO,_28_JULI_2008]
+* **Nomer Handphone:** [082247095571]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMK_PGRI_2_PONOROGO]
+* **Fun Fact:** [SUKA_LAGU_LANA_DEL_REY]
+
+
 
 ---
 
