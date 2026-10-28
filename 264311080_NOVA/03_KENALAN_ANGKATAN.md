@@ -8,7 +8,7 @@
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001 - ADHINIA_ALKURRATU_AINNI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADHINIA_ALKURRATU_AINNI]
 * **NIM:** [264311001]
-* **TTL:** [MADIUN_11_DESEMBER_2007]
+* **TTL:** [MADIUN,_11_DESEMBER_2007]
 * **Nomer Handphone:** [0895397031103]
 * **Nama Kelompok:** [EXPRESS]
 * **Asal Daerah:** [NGAWI]
@@ -427,7 +427,7 @@
 * **Fun Fact:** [GA_SUKA_NGOMONG_KASAR]
 
 ### [39] [264311039] - [DEWI_WASILATUL_KHOIRIYAH]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039 - DEWI_WASILATUL_KHOIRIYAH.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DEWI_WASILATUL_KHOIRIYAH]
 * **NIM:** [264311039]
 * **TTL:** [SIDOARJO,_21_NOVEMBER_2007]
@@ -460,7 +460,7 @@
 * **Fun Fact:** [JADI_BACKBURNER]
 
 ### [42] [264311043] - [GLENDY_DEVANNO_ARDIANSYAH_PUTRA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043 - GLENDY_DEVANNO_ARDIANSYAH_PUTRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [GLENDY_DEVANNO_ARDIANSYAH_PUTRA]
 * **NIM:** [264311043]
 * **TTL:** [PONOROGO,_25_OKTOBER_2007]
@@ -559,7 +559,7 @@
 * **Fun Fact:** [SUKA_MAKAN_TAPI_MALAS_NGUNYAH]
 
 ### [51] [264311052] - [NAZRIL_DESTA_ADHANDA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052 - NAZRIL_DESTA_ADHANDA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAZRIL_DESTA_ADHANDA]
 * **NIM:** [264311052]
 * **TTL:** [MADIUN,_20_DESEMBER_2007]
@@ -602,9 +602,9 @@
 * **Asal Sekolah:** [SMAN_5_Madiun]
 * **Fun Fact:** [GK_SUKA_MAKAN_PEDES]
 
-### [55] [264311056] - [RESTU_PRAYUGA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - RESTU_PRAYUGA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [RESTU_PRAYUGA]
+### [55] [264311056] - [RESTU_PRAYOGA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056 - RESTU_PRAYOGA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RESTU_PRAYOGA]
 * **NIM:** [264311056]
 * **TTL:** [PONOROGO,_19_JANUARI_2008]
 * **Nomer Handphone:** [083134846000]
@@ -625,7 +625,7 @@
 * **Fun Fact:** [PECANDU_KOPI_AKUT]
 
 ### [57] [264311058] - [SAKHIYA_AZAM_KHOIRUNNI'AM]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311058 - SAKHIYA_AZAM_KHOIRUNNI'AM.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SAKHIYA-AZAM_KHOIRUNNI'AM]
 * **NIM:** [264311058]
 * **TTL:** [PONOROGO,_06_APRIL_2007]
