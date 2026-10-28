@@ -427,7 +427,7 @@
 * **Fun Fact:** GA SUKA NGOMONG KASAR
 
 ### 39 264311039 - Dewi Wasilatul Khoiriyah
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/039 lala.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/039  lala.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dewi Wasilatul Khoiriyah
 * **NIM:** 264311039
 * **TTL:** Sidoarjo, 21 November 2007
@@ -805,7 +805,7 @@
 * **Fun Fact:** MALAS NGODING
 
 ### 73 264311073 - Jalalluddin Az-Zam Zami Ibnu Suta
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/072 zami.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/073 zami.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Jalalluddin Az-Zam Zami Ibnu Suta
 * **NIM:** 264311073
 * **TTL:** Madiun, 21 Juli 2008
@@ -827,7 +827,7 @@
 * **Fun Fact:** Suka motoran sore sore
 
 ### 75 264311075 - Muhammad Ahnaf Ghifari
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/o75 ghifari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/075 ghifari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Ahnaf Ghifari
 * **NIM:** 264311075
 * **TTL:** Kediri, 13 April 2008
