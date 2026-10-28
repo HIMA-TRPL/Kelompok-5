@@ -640,7 +640,7 @@
 ## 🏫 Kelas 1C
 
 ### [58] [264311060] - [ADAM_CHESTA_ADITIO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/MAHASISWA_BARU/Kelas_1C/264311060-ADAM CHESTA ADITIO.jpeg" alt="ADAM CHESTA ADITIO" style="object-fit:cover;" width="300px">
 * **Nama Lengkap:** [ADAM_CHESTA_ADITIO]
 * **NIM:** [264311060]
 * **TTL:** [BLITAR_10_SEPTEMBER_2007]
@@ -739,7 +739,7 @@
 * **Fun Fact:** [SUKA_MIE_AYAM]
 
 ### [67] [264311069] - [GHAZA_ZAIDAN_AL-GHIFARI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/MAHASISWA_BARU/Kelas_1C/264311069-GHAZA ZAIDAN AL-GHIFARI.jpeg" alt="GHAZA ZAIDAN AL-GHIFARI" style="object-fit:cover;" width="300px">
 * **Nama Lengkap:** [GHAZA_ZAIDAN_AL-GHIFARI]
 * **NIM:** [264311069]
 * **TTL:** [MADIUN_31_OKTOBER_2007]
@@ -772,7 +772,7 @@
 * **Fun Fact:** [SUKA_MAIN_FUTSAL,_GAME]
 
 ### [70] [264311072] - [IZZATA_WIHANANGKU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/MAHASISWA_BARU/Kelas_1C/264311072-IZZATA WIHANANGKU.jpeg" alt="IZZATA WIHANANGKU" style="object-fit:cover;" width="300px">
 * **Nama Lengkap:** [IZZATA_WIHANANGKU]
 * **NIM:** [264311072]
 * **TTL:** [PONOROGO,_06_AGUSTUS_2007]
