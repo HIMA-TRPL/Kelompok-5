@@ -44,6 +44,26 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
+### [05] BPH - [ALIVIA RIZKA WARDANI]
+*<img src="assets/PANITIA/BPH/BPH (BENDAHARA 1) - ALIVIA RIZKA WARDANI.jpeg" alt="ALIVIA RIZKA WARDANI" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** ALIVIA RIZKA WARDANI
+* **Jabatan:** BENDAHARA 1
+* **TTL:** Ngawi, 12 Sept 2007
+* **Nomer Handphone:** 08819699823
+* **Username GitHub:** @aliviarizz
+* **Asal Daerah:** Ngawi
+<!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
+
+### [06] BPH - [DHEA NOVIKA]
+*<img src="assets/PANITIA/BPH/BPH (BENDAHARA 2) - DHEA NOVIKA.jpeg" alt="DHEA NOVIKA" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** DHEA NOVIKA
+* **Jabatan:** BENDAHARA 2
+* **TTL:** Madiun, 13 November 2006
+* **Nomer Handphone:** 085648516993
+* **Username GitHub:** @ndhean0v
+* **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
+
 ---
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
