@@ -5,7 +5,7 @@
 * **NIM:** [264311080]
 * **TTL:** [BOJONEGORO_3_NOVEMBER_2007]
 * **Nomer Handphone:** [085812498067]
-* **Nama Kelompok:** [5_VUE]
+* **Nama Kelompok:** [VUE]
 * **Asal Daerah:** [KAB.BOJONEGORO]
 * **Asal Sekolah:** [SMKN_MARGOMULYO]
 * **Fun Fact:** [SUKA_NYANYI_SAAT_MANDI]

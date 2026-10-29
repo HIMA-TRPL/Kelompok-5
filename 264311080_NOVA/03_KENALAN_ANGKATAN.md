@@ -209,9 +209,9 @@
 * **TTL:** [MADIUN,_21_FEBRUARI_2008]
 * **Nomer Handphone:** [083171456397]
 * **Nama Kelompok:** [SPRING]
-* **Asal Daerah:** [Kab_MADIUN]
+* **Asal Daerah:** [KAB_MADIUN]
 * **Asal Sekolah:** [SMKN_1_WONOASRI]
-* **Fun Fact:** [SUKA_MAIN_GITAR]
+* **Fun Fact:** [JAGO_GITAR]
 
 ### [20] [264311020] - [MAHIJA_PARAMA_URDHA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020 - MAHIJA_PARAMA_URDHA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
@@ -332,7 +332,7 @@
 * **Nama Kelompok:** [LARAVEL]
 * **Asal Daerah:** [MADIUN]
 * **Asal Sekolah:** [MAN_1_KOTA_MADIUN]
-* **Fun Fact:** [SUKA_DEBAT]
+* **Fun Fact:** [INTROVERT]
 
 ---
 
