@@ -867,8 +867,8 @@
 * **Nomer Handphone:** [085812498067]
 * **Nama Kelompok:** [VUE]
 * **Asal Daerah:** [BOJONEGORO]
-* **Asal Sekolah:** [SMKN MARGOMULYO]
-* **Fun Fact:** [SUKA NYANYI SAAT MANDI
+* **Asal Sekolah:** [SMKN_MARGOMULYO]
+* **Fun Fact:** [SUKA_NYANYI_SAAT_MANDI
 
 ### [79] [264311081] - [PUTRI NURHALIZA]
 *<img src="assets/MAHASISWA_BARU/Kelas_1C/264311081 - PUTRI NURHALIZA.jpeg" alt="PUTRI NURHALIZA" style="object-fit:cover;" width="300px">
