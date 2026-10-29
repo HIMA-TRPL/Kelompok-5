@@ -14,14 +14,14 @@
 * **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
-### [02] BPH - [NAMA_PANITIA_02]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_02]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_02]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+### [02] BPH - [MUHAMMAD ADAM AL-KIDRI]
+*<img src="assets/PANITIA/BPH/BPH (KETUA) - MUHAMMAD ADAM AL-KIDRI.jpeg" alt="MUHAMMAD ADAM AL-KIDRI" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** MUHAMMAD ADAM AL-KIDRI
+* **Jabatan:** Wakil Ketua 
+* **TTL:** Magetan, 08 September 2005
+* **Nomer Handphone:** 87756523263
+* **Username GitHub:** @Adamlki
+* **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [NAMA_PANITIA_03]
