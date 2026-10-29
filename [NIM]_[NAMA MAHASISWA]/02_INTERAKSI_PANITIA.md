@@ -4,7 +4,7 @@
 
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
-### [01] BPH (KETUA) - [MUHAMMAD_AKBAR_FADILAH_01]
+### [01] BPH - [MUHAMMAD AKBAR FADILAH]
 *<img src="assets/PANITIA/BPH/BPH (KETUA) - MUHAMMAD AKBAR FADILAH.jpeg" alt="MUHAMMAD AKBAR FADILAH" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** [MUHAMMAD AKBAR FADILAH_01]
 * **Jabatan:** [Ketua Umum]
