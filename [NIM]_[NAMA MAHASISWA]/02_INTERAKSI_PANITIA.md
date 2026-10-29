@@ -186,9 +186,9 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
-### [18] PSDM - [MUHAMMAD DANI TAUFIQURROHMAN]
+### [18] PSDM - [MOHAMAD DANI TAUFIQURROHMAN]
 *<img src="assets/PANITIA/PSDM/PSDM - MOHAMAD DANI TAUFIQURROHMAN.jpeg" alt="MOHAMAD DANI TAUFIQURROHMAN" style="object-fit:cover;" width="300px">
-* **Nama Panitia:** MUHAMMAD DANI TAUFIQURROHMAN
+* **Nama Panitia:** MOHAMAD DANI TAUFIQURROHMAN
 * **Jabatan:** Anggota PSDM
 * **TTL:** Denpasar, 21 Maret 2006
 * **Nomer Handphone:** 0895808475151
@@ -368,9 +368,9 @@
 * **Asal Daerah:** -
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
-### [35] DKM - [JIMLI DWI ASSIDDIQ]
-*<img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASSIDDIQ.jpeg" alt="JIMLI DWI ASSIDDIQ" style="object-fit:cover;" width="300px">
-* **Nama Panitia:** JIMLI DWI ASSIDDIQ
+### [35] DKM - [JIMLI DWI ASSIDDIQI]
+*<img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASSIDDIQI.jpeg" alt="JIMLI DWI ASSIDDIQI" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** JIMLI DWI ASSIDDIQI
 * **Jabatan:** Perkap
 * **TTL:** Mojokerto, 29 Juli 2006
 * **Nomer Handphone:** 081515667521
