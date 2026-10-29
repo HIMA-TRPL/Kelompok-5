@@ -123,15 +123,15 @@
 
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
-### [07] PSDM - [NAMA_PANITIA_07]
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_07]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_07]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
+### [12] PSDM - [RIYAN ZAKARIA ZULKARNAIN]
+*<img src="assets/PANITIA/PSDM/PSDM - RIYAN ZAKARIA ZULKARNAIN.jpeg" alt="RIYAN ZAKARIA ZULKARNAIN" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** RIYAN ZAKARIA ZULKARNAIN
+* **Jabatan:** Koor PSDM
+* **TTL:** Ponorogo, 7 September 2005
+* **Nomer Handphone:** 085172421215
+* **Username GitHub:** @Riyanzakaria
+* **Asal Daerah:** Ponorogo
+<!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] PSDM - [NAMA_PANITIA_08]
 * ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
