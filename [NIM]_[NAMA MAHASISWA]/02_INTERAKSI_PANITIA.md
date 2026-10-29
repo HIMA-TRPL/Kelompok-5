@@ -4,14 +4,14 @@
 
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
-### [01] BPH - [NAMA_PANITIA_01]
-* <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_01]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_01]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+### [01] BPH (KETUA) - [MUHAMMAD_AKBAR_FADILAH_01]
+*<img src="assets/PANITIA/BPH/BPH (KETUA) - MUHAMMAD AKBAR FADILAH.jpeg" alt="MUHAMMAD AKBAR FADILAH" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** [MUHAMMAD AKBAR FADILAH_01]
+* **Jabatan:** [Ketua Umum]
+* **TTL:** [Banjarmasin, 17 Juli 2006]
+* **Nomer Handphone:** [082336825955]
+* **Username GitHub:** @[akbrvdv_01]
+* **Asal Daerah:** [Ngawi]
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [NAMA_PANITIA_02]
