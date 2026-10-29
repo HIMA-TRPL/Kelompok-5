@@ -24,8 +24,8 @@
 * **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
-### [03] BPH - [NAMA_PANITIA_03]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+### [03] BPH - [FATHUR ROSHIN HADDINANTA]
+*<img src="assets/PANITIA/BPH/BPH (SEKRETARIS 1) - FATHUR ROSHIN HADDINANTA.jpeg" alt="FATHUR ROSHIN HADDINANTA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** [NAMA_PANITIA_03]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
