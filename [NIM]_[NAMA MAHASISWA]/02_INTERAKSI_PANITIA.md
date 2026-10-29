@@ -186,9 +186,9 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
-### [18] PSDM - [MOHAMAD DANI TAUFIQURROHMAN]
-*<img src="assets/PANITIA/PSDM/PSDM - MOHAMAD DANI TAUFIQURROHMAN.jpeg" alt="MOHAMAD DANI TAUFIQURROHMAN" style="object-fit:cover;" width="300px">
-* **Nama Panitia:** MOHAMAD DANI TAUFIQURROHMAN
+### [18] PSDM - [MOHAMMAD DANI TAUFIQURROHMAN]
+*<img src="assets/PANITIA/PSDM/PSDM - MOHAMMAD DANI TAUFIQURROHMAN.jpeg" alt="MOHAMMAD DANI TAUFIQURROHMAN" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** MOHAMMAD DANI TAUFIQURROHMAN
 * **Jabatan:** Anggota PSDM
 * **TTL:** Denpasar, 21 Maret 2006
 * **Nomer Handphone:** 0895808475151
