@@ -19,20 +19,30 @@
 * **Nama Panitia:** MUHAMMAD ADAM AL-KIDRI
 * **Jabatan:** Wakil Ketua 
 * **TTL:** Magetan, 08 September 2005
-* **Nomer Handphone:** 87756523263
+* **Nomer Handphone:** 087756523263
 * **Username GitHub:** @Adamlki
 * **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [FATHUR ROSHIN HADDINANTA]
 *<img src="assets/PANITIA/BPH/BPH (SEKRETARIS 1) - FATHUR ROSHIN HADDINANTA.jpeg" alt="FATHUR ROSHIN HADDINANTA" style="object-fit:cover;" width="300px">
-* **Nama Panitia:** [NAMA_PANITIA_03]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_03]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** FATHUR ROSHIN HADDINANTA
+* **Jabatan:** SEKRETARIS 1
+* **TTL:** Tulungagung, 21 September 2005
+* **Nomer Handphone:** 085732860583
+* **Username GitHub:** @fathursn21
+* **Asal Daerah:** Tulungagung
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+
+### [04] BPH - [NAILA ZAHRA YASMINE]
+*<img src="assets/PANITIA/BPH/BPH (SEKRETARIS 2) - NAILA ZAHRA YASMINE.jpeg" alt="NAILA ZAHRA YASMINE" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** NAILA ZAHRA YASMINE
+* **Jabatan:** SEKRETARIS 2
+* **TTL:** Madiun, 09 Oktober 2006
+* **Nomer Handphone:** 082143238277
+* **Username GitHub:** @nailazahraysmn
+* **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
