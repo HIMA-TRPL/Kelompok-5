@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [MUHAMMAD ADAM AL-KIDRI]
-*<img src="assets/PANITIA/BPH/BPH (WAKIL KETUA) - MUHAMMAD ADAM AL-.jpeg" alt="MUHAMMAD ADAM AL-" style="object-fit:cover;" width="300px">
+*<img src="assets/PANITIA/BPH/BPH (WAKIL KETUA) - MUHAMMAD ADAM AL-KIDRI.jpeg" alt="MUHAMMAD ADAM AL-KIDRI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** MUHAMMAD ADAM AL-KIDRI
 * **Jabatan:** Wakil Ketua 
 * **TTL:** Magetan, 08 September 2005
