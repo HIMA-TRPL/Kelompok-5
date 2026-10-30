@@ -264,7 +264,7 @@
 * <img src="assets/PANITIA/Sosma/SOSMA - EDWIN_NUR_CAHYO.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [EDWIN_NUR_CAHYO]
 * **Jabatan:** [ANGGOTA_SOSMA]
-* **TTL:** [DAGANGAN,_MADIUN,_01_NOVEMBER_2006]
+* **TTL:** [DAGANGAN,_MADIUN,_01_NOVEMBER_2007]
 * **Nomer Handphone:** [082334500709]
 * **Username GitHub:** @[edwinyxxz]
 * **Asal Daerah:** [DAGANGAN,_MADIUN]
