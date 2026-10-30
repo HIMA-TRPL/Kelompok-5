@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Kunni Sofa Rahmayani.png" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/KUNNI.jpeg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 04 Juli 2006
