@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - [SEPTIAN ANGGA SAPUTRA]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.jpeg" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** SEPTIAN ANGGA SAPUTRA
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - [INDAH AYU ASTUTI]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - INDAH AYU ASTUTI.jpeg" alt="INDAH AYU ASTUTI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** INDAH AYU ASTUTI
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - [AISYAH NUR FADILLAH]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - AISYAH NUR FADILLAH.jpeg" alt="AISYAH NUR FADILLAH" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** AISYAH NUR FADILLAH
 * **Jabatan:** Volunteer (Komdis)
 * **TTL:** Magetan, 21 September 2006
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - [NABIL SUNU WIDYA DHANA]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - NABIL SUNU WIDYADHANA.jpeg" alt="NABIL SUNU WIDYADHANA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** NABIL SUNU WIDYA DHANA
 * **Jabatan:** Volunteer
 * **TTL:** Bekasi, 15 Maret 2006
@@ -463,7 +463,7 @@
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - [ERVINDY ANJUNI NURMASARI]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpeg" alt="ERVINDY ANJUNI NURMASARI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** ERVINDY ANJUNI NURMASARI
 * **Jabatan:** Volunteer (Konsumsi)
 * **TTL:** Madiun, 21 Juni 2006
