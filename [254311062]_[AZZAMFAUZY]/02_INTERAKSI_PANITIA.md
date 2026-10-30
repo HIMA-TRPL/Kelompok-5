@@ -17,7 +17,7 @@
 ### [02] BPH - [Muhammad Adam Al-Kidri]
 * <img src="assets/PANITIA/BPH/BPH - Muhammad Adam Al-Kidri.png" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Muhammad Adam Al-Kidri]
-* **Jabatan:** [Wakil Ketua Umum HIMA TRPL 2026]
+* **Jabatan:** [Wakil Ketua Umum]
 * **TTL:** [Magetan, 08 September 2005]
 * **Nomer Handphone:** [087756523263]
 * **Username GitHub:** @[Adamlki]
@@ -196,9 +196,9 @@
 * **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
-### [19] PSDM - [Rindy Cantika Agustina Putri.]
+### [19] PSDM - [Rindy Cantika Agustina Putri]
 * <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina Putri.png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Rindy Cantika Agustina Putri.]
+* **Nama Panitia:** [Rindy Cantika Agustina Putri]
 * **Jabatan:** [Anggota PSDM]
 * **TTL:** [Madiun, 31 Agustus 2006]
 * **Nomer Handphone:** [081553111275]
@@ -226,9 +226,9 @@
 * **Asal Daerah:** [Nganjuk]
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
-### [22] PSDM - [Azza Auliyaul F.]
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F.png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Azza Auliyaul F.]
+### [22] PSDM - [Azza Auliyaul Fitri.]
+* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul Fitri.png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Azza Auliyaul Fitri]
 * **Jabatan:** [Anggota PSDM]
 * **TTL:** [Madiun, 19 November 2005]
 * **Nomer Handphone:** [089523358721]
@@ -482,14 +482,14 @@
 * **Asal Daerah:** [Madiun]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-### [46] Volunteer - [Galang]
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [Ervindy Anjuni Nurmasari]
-* **Jabatan:** [Volunteer (Konsumsi)]
-* **TTL:** [Madiun, 21 Juni 2006]
-* **Nomer Handphone:** [085733213487]
-* **Username GitHub:** @[erov1n]
-* **Asal Daerah:** [Madiun]
+### [46] Volunteer - [Galang surya prasetyo]
+* <img src="assets/PANITIA/Volunteer/Volunteer - Galang surya prasetyo.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [galang surya prasetyo]
+* **Jabatan:** [Volunteer]
+* **TTL:** [tenggarong, 19 februari 2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [ kalimantan timur]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ---
