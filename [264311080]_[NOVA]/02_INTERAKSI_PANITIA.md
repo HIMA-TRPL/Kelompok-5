@@ -180,7 +180,7 @@
 * <img src="assets/PANITIA/PSDM/PSDM - RIYAN_ZAKARIA_ZULKARNAIN.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RIYAN_ZAKARIA_ZULKARNAIN]
 * **Jabatan:** [KOORDINATOR_PSDM]
-* **TTL:** [sPONOROGO,_07_SEPTEMBER_2005]
+* **TTL:** [PONOROGO,_07_SEPTEMBER_2005]
 * **Nomer Handphone:** [085172421215]
 * **Username GitHub:** @[Riyanzakaria]
 * **Asal Daerah:** [PONOROGO]
