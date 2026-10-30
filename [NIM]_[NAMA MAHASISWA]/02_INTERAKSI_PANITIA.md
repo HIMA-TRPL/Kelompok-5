@@ -267,7 +267,7 @@
 * **TTL:** Dagangan, Madiun, 01 November 2006
 * **Nomer Handphone:** 082334500709
 * **Username GitHub:** @edwinyxxz
-* **Asal Daerah:**Dagangan, Madiun
+* **Asal Daerah:** Dagangan, Madiun
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - [MUHSYAM FAHRIEL SEPTIANSYAH]
@@ -317,11 +317,11 @@
 ### [30] PDD - [RAIHAN FIRDAUS ALFARITSI]
 * <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RAIHAN FIRDAUS ALFARITSI
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** @ -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota
+* **TTL:** Ngawi, 24 September 2005
+* **Nomer Handphone:** 0895405971849
+* **Username GitHub:** @hannnzu
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - [ACHMAD ALVIN AL FALAH]
