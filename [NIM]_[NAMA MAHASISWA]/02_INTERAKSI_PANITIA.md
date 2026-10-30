@@ -177,7 +177,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - Riyan Zakaria Zulkarnain
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/RIYAN ZAKARIA ZULKARNAIN.jpeg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Riyan Zakaria Zulkarnain
 * **Jabatan:** Koordinator PSDM
 * **TTL:** Ponorogo, 07 September 2005
@@ -187,7 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - Mohammad Dani Taufiqurrohman
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..png" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/MOHAMMAD DANI TAUFIQURROHMAN.jpeg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Mohammad Dani Taufiqurrohman
 * **Jabatan:** Anggota PSDM
 * **TTL:** Denpasar, 21 Maret 2006
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - Rindy Cantika Agustina P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
 * **Jabatan:** Anggota PSDM
 * **TTL:** Madiun, 31 Agustus 2006
@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.png" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/ABDUL AZIZ MUSTHOFA.jpeg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
 * **Jabatan:** Staff Muda PSDM / Ketupel
 * **TTL:** Tulungagung, 13 April 2006
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - Tiara Maya Lestari
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.png" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/TIARA MAYA LESTARI.jpeg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Tiara Maya Lestari
 * **Jabatan:** Anggota PSDM
 * **TTL:** Nganjuk, 11 Maret 2006
@@ -241,7 +241,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [23] Sosma - Anggi Wahyu Saputra
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.png" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/ANGGI WAHYU SAPUTRA.jpeg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anggi Wahyu Saputra
 * **Jabatan:** Koordinator Sosma
 * **TTL:** Tulungagung, 14 Juni 2005
@@ -251,7 +251,7 @@
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ### [24] Sosma - Muhammad Rofiqul Anam
-* <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/MUHAMMAD ROFIQUL ANAM.jpeg" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
 * **Jabatan:** Anggota Sosma
 * **TTL:** Magetan, 05 Maret 2006
@@ -261,7 +261,7 @@
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/EDWIN NURCAHYO.jpeg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
 * **Jabatan:** Anggota Sosma
 * **TTL:** Dagangan, Madiun, 01 November 2006
@@ -271,7 +271,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - Muhsyam Fahriel S.
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S..png" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/MUHSYAM FAHRIEL S..jpeg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhsyam Fahriel S.
 * **Jabatan:** Anggota Sosma
 * **TTL:** Ngawi, 25 September 2005
@@ -281,7 +281,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] Sosma - Lutfilah Ahmad
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.png" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/LUTFILAH AHMAD.jpeg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
 * **Jabatan:** Staff Muda
 * **TTL:** Magetan, 30 Januari 2007
