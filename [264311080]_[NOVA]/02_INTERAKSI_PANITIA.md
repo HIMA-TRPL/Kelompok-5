@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - [FIRDAUS_ILHAM_FADHLURRAHMAN]
-* <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS_ILHAM_FAKHRUDDIN.png" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS_ILHAM_FAKHRUDDIN.png" alt="Firdaus Ilham Fadhlurrahman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [FIRDAUS_ILHAM_FADHLURRAHMAN]
 * **Jabatan:** [ANGGOTA]
 * **TTL:** [MADIUN,_01_JANUARI_2007]
@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - [ADAM_NOVERIAN]
-* <img src="assets/PANITIA/Humas/HUMAS - ADAM_NOVERIAN.png" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ADAM_NOVERIAN.png" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ADAM_NOVERIAN]
 * **Jabatan:** [KETUA_HUMAS]
 * **TTL:** [SURABAYA,_08_NOVEMBER_2005]
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - [AZZA_AULIYAUL_FITRI]
-* <img src="assets/PANITIA/PSDM/PSDM - AZZA_AULIYAUL_FITRI.png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA_AULIYAUL_FITRI.png" alt="Azza Auliyaul Fitri" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_FITRI]
 * **Jabatan:** -
 * **TTL:** -
@@ -271,7 +271,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - [MUHSYAM_FAHRIEL_SEPTIANSYAH]
-* <img src="assets/PANITIA/Sosma/SOSMA - MUHSYAM_FAHRIEL_SEPTIANSYAH.png" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA - MUHSYAM_FAHRIEL_SEPTIANSYAH.png" alt="Muhsyam Fahriel Septiansyah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHSYAM_FAHRIEL_S.]
 * **Jabatan:** [ANGGOTA_SOSMA]
 * **TTL:** [NGAWI,_25_SEPTEMBER_2005]
@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - [DHEANDRA_KHAIRUNNISA_PAMBUDI]
-* <img src="assets/PANITIA/DKM/DKM - DHEANDRA_KHAIRUNNISA_PAMBUDI.png" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - DHEANDRA_KHAIRUNNISA_PAMBUDI.png" alt="Dheandra Khairunnisa Pambudi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DHEANDRA_KHAIRUNNISA_PAMBUDI]
 * **Jabatan:** [SIE_KESEHATAN]
 * **TTL:** [MADIUN,_27_SEPTEMBER_2005]
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - [NABIL_SUNU_WIDYADHANA]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NABIL_SUNU_WIDYADHANA.png" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NABIL_SUNU_WIDYADHANA.png" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NABIL_SUNU_WIDYA_DHANA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [BEKASI,_15_MARET_2006]
@@ -472,8 +472,8 @@
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - [NADYANADYA_NUR_KAMILA]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYANADYA_NUR_KAMILA.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+### [45] Volunteer - [NADYA_NUR_KAMILA]
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYA_NUR_KAMILA.png" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADYANADYA_NUR_KAMILA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN,_1_SEPTEMBER_2006]
@@ -483,7 +483,7 @@
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] Volunteer - [GALANG]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG.png" alt="Galang" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [GALANG]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** []
@@ -491,8 +491,6 @@
 * **Username GitHub:** @[]
 * **Asal Daerah:** []
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
-
----
 
 ---
 

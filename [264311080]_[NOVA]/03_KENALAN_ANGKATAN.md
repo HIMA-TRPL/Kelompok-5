@@ -848,9 +848,9 @@
 * **Asal Sekolah:** [MA_NURUL_HADID]
 * **Fun Fact:** [TIDAK_PERNAH_MEMILIKI_NAMA_PANGGILAN_YANG_SAMA_DI_SETIAP_JENJANG_SEKOLAH]
 
-### [77] [264311078] - [MUTYA_YUWAN_RAMADAHNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [MUTYA_YUWAN_RAMADAHNI]
+### [77] [264311078] - [MUTYA_YUWAN_RAMADHANI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311078 - MUTYA_YUWAN_RAMADHANI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MUTYA_YUWAN_RAMADHANI]
 * **NIM:** [264311078]
 * **TTL:** [PONOROGO,_6_OKTOBER_2007]
 * **Nomer Handphone:** [088801521950]
@@ -871,7 +871,7 @@
 * **Fun Fact:** [SUKA_NA_JAEMIN_+_CINTA_ITS]
 
 ### [79] [264311081] - [PUTRI_NURHALIZA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081 - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081 - PUTRI_NURHALIZA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PUTRI_NURHALIZA]
 * **NIM:** [264311081]
 * **TTL:** [MADIUN,_8_JUNI_2007]
