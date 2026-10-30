@@ -124,6 +124,7 @@
 
 ### [12] Humas - [ADAM NOVERIAN]
 *<img src="assets/PANITIA/HUMAS/HUMAS%20-%20ADAM%20NOVERIAN.jpeg" alt="ADAM NOVERIAN" style="object-fit:cover;" width="300px">
+*<img src="assets/PANITIA/HUMAS/HUMAS - ADAM NOVERIAN.jpeg" alt="ADAM NOVERIAN" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** ADAM NOVERIAN
 * **Jabatan:** Ketua Humas
 * **TTL:** Surabaya, 08 November 2005
