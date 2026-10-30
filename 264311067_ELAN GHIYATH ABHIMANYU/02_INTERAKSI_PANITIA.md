@@ -308,7 +308,7 @@
 * <img src="assets/PANITIA/PDD/PDD - ARDHANA SYAH HIDAYAT.jpeg" alt="Foto Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ardhana Syah Hidayat
 * **Jabatan:** Korodinator
-* **TTL:** Ponorogo, 27 Desember 2005
+* **TTL:** Ponorogo, 4 Juli 2005
 * **Nomer Handphone:** 85724360447
 * **Username GitHub:** @Ardhana-Hidayat
 * **Asal Daerah:** Ponorogo
