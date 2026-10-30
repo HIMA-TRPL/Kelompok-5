@@ -388,7 +388,7 @@
 * **Asal Daerah:** Kota Madiun
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
-### [37] DKM -[SEKAR PURWITA ASRI]
+### [37] DKM - [SEKAR PURWITA ASRI]
 *<img src="assets/PANITIA/DKM/DKM - SEKAR PURWITA ASRI.jpeg" alt="SEKAR PURWITA ASRI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** SEKAR PURWITA ASRI
 * **Jabatan:** Anggota DKM
