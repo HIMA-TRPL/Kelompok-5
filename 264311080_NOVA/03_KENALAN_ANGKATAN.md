@@ -411,8 +411,8 @@
 * **TTL:** [KOTA_MAGETAN,_5_JUNI_2008]
 * **Nomer Handphone:** [085129127452]
 * **Nama Kelompok:** [RAILS]
-* **Asal Daerah:** [Kota_Magetan]
-* **Asal Sekolah:** [SMAN_1_Sukomoro]
+* **Asal Daerah:** [KOTA_MAGETAN]
+* **Asal Sekolah:** [SMAN_1_SUKOMORO]
 * **Fun Fact:** [ANAK_SPOTIFY]
 
 ### [38] [264311038] - [ARDHAN_IRSYAD_MAULANA]
@@ -441,7 +441,7 @@
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040 - FAIRUZ_NADHIR_RAHMAD.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [FAIRUZ_NADHIR_RAHMAD]
 * **NIM:** [264311040]
-* **TTL:** [KOTA_MADIUN,02_APRIL_2008]
+* **TTL:** [MADIUN,08_MEI_2007]
 * **Nomer Handphone:** [08976381168]
 * **Nama Kelompok:** [RAILS]
 * **Asal Daerah:** [MADIUN]
@@ -532,7 +532,7 @@
 * **TTL:** [KOTA_MAGETAN_1_JANUARI_2007]
 * **Nomer Handphone:** [081994311889]
 * **Nama Kelompok:** [DJANGO]
-* **Asal Daerah:** [MAGETAN]
+* **Asal Daerah:** [KOTA_MAGETAN]
 * **Asal Sekolah:** [SMAN_1_SUKOMORO]
 * **Fun Fact:** [BISA_GAMBAR_&_BASKET_BERJAM2_KLO_UDAH_MASUK_FLOW_STATE]
 

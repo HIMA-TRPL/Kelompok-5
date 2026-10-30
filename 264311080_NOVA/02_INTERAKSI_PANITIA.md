@@ -473,7 +473,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - [NADYANADYA_NUR_KAMILA]
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - ERVINDY_ANJUNI_NURMASARI.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYANADYA_NUR_KAMILA.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADYANADYA_NUR_KAMILA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN,_1_SEPTEMBER_2006]
