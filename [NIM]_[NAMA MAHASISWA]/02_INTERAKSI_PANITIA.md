@@ -250,7 +250,7 @@
 * **Asal Daerah:** Tulungagung
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
-### [24] Sosma - [MUHAMMAD ROFIQUL ANAM]
+### [24] Sosma - [MUHAMMAD ROFIQUL ANAM] (DIHAPUS)
 * <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD ROFIQUL ANAM
 * **Jabatan:** -
@@ -314,7 +314,7 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
-### [30] PDD - [RAIHAN FIRDAUS ALFARITSI]
+### [30] PDD - [RAIHAN FIRDAUS ALFARITSI] (DIHAPUS)
 * <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RAIHAN FIRDAUS ALFARITSI
 * **Jabatan:** Anggota
@@ -351,7 +351,7 @@
 * **TTL:** Madiun, 09 September 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
-* **Asal Daerah:** -
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 33 wajib ditargetkan pada baris komentar ini -->
 
 ---
