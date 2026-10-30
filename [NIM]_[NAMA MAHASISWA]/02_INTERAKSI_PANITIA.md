@@ -467,10 +467,20 @@
 * **Nama Panitia:** ERVINDY ANJUNI NURMASARI
 * **Jabatan:** Volunteer (Konsumsi)
 * **TTL:** Madiun, 21 Juni 2006
-* **Nomer Handphone:** -
+* **Nomer Handphone:** 085733213487
 * **Username GitHub:** @erov1n
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
+### [45] Volunteer - [NADYA NUR KAMILA]
+*<img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - NADYA NUR KAMILA.jpeg" alt="NADYA NUR KAMILA" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** NADYA NUR KAMILA
+* **Jabatan:** Volunteer 
+* **TTL:** Madiun, 1 September 2006
+* **Nomer Handphone:** 085731873063
+* **Username GitHub:** @nanayaaa
+* **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
