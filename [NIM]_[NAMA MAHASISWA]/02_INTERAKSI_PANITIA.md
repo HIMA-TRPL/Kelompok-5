@@ -197,13 +197,13 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - [RINDY CANTIKA AGUSTINA P.]
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/PSDM/PSDM%20-%20RINDY%20CANTIKA%20AGUSTINA.jpeg" alt="RINDY CANTIKA AGUSTINA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** RINDY CANTIKA AGUSTINA P.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** @ -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota Divisi PSDM 
+* **TTL:** Madiun, 31 Agustus 2006
+* **Nomer Handphone:** 081553111275
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - [ABDUL AZIZ MUSHTHOFA]
@@ -227,13 +227,13 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - [AZZA AULIYAUL F.]
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/PSDM/PSDM%20-%20AZZA%20AULIYAUL%20F..jpeg" alt="AZZA AULIYAUL F." style="object-fit:cover;" width="300px">
 * **Nama Panitia:** AZZA AULIYAUL F.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** @-
-* **Asal Daerah:** -
+* **Jabatan:** Anggota PSDM
+* **TTL:** Madiun, 19 November 2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** @azzaauliyaul
+* **Asal Daerah:** Rejosari, Sawahan, Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - [RADITYA ALFAREEZA PURNAMA PUTRA]
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/PDD/PDD%20-%20RADITYA%20ALFAREZA%20PURNAMA%20P..jpeg" alt="RADITYA ALFAREZA PURNAMA P." style="object-fit:cover;" width="300px">
 * **Nama Panitia:** RADITYA ALFAREEZA PURNAMA PUTRA
 * **Jabatan:** Anggota PDD
 * **TTL:** Madiun, 04 Maret 2006
@@ -359,13 +359,13 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - [ANDRIAN MAULANA]
-* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** -
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** @ -
-* **Asal Daerah:** -
+*<img src="assets/PANITIA/DKM/DKM%20-%20ANDRIAN%20MAULANA.jpeg" alt="ANDRIAN MAULANA" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** ANDRIAN MAULANA
+* **Jabatan:** Koordinator DKM
+* **TTL:** Ponorogo, 19 September 2005
+* **Nomer Handphone:** 089524151260
+* **Username GitHub:** @driannmlnaa
+* **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - [JIMLI DWI ASSIDDIQI]
@@ -481,6 +481,16 @@
 * **Username GitHub:** @nanayaaa
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - [GALANG SURYA PRASETYO]
+*<img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jpeg" alt="GALANG SURYA PRASETYO" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** GALANG SURYA PRASETYO
+* **Jabatan:** Volunteer 
+* **TTL:** Tenggarong, 19 February 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** Kalimantan Timur
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
