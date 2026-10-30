@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - [ADAM NOVERIAN]
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/HUMAS/HUMAS - ADAM NOVERIAN.jpeg" alt="ADAM NOVERIAN" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** ADAM NOVERIAN
 * **Jabatan:** Ketua Humas
 * **TTL:** Surabaya, 08 November 2005
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - [MUHAMMAD RAUFA HAFID WIDODO]
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/HUMAS/HUMAS - MUHAMMAD RAUFA HAFID WIDODO.jpeg" alt="MUHAMMAD RAUFA HAFID WIDODO" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** MUHAMMAD RAUFA HAFID WIDODO
 * **Jabatan:** Anggota Humas
 * **TTL:** Madiun, 26 September 2005
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - [ALVINA NUR LAILA ANGGRAINI]
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/HUMAS/HUMAS - ALVINA NUR LAILA ANGGRAINI.jpeg" alt="ALVINA NUR LAILA ANGGRAINI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** ALVINA NUR LAILA ANGGRAINI
 * **Jabatan:**  Anggota Humas
 * **TTL:** Surabaya, 31 Maret 2005
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - [CRISTIAN REYNALDI]
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/HUMAS/HUMAS - CRISTIAN REYNALDI.jpeg" alt="CRISTIAN REYNALDI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** CRISTIAN REYNALDI
 * **Jabatan:** Perkap
 * **TTL:** Jakarta, 18 Januari 2007
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - [ATHA ARYASATYA]
-* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/PANITIA/HUMAS/HUMAS - ATHA ARYASATYA.jpeg" alt="ATHA ARYASATYA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** ATHA ARYASATYA
 * **Jabatan:** Staff Humas
 * **TTL:** Madiun, 22 Februari 2005
