@@ -27,9 +27,9 @@
 ### [03] BPH - Fathur Roshin Haddinanta
 - <img src="assets/PANITIA/BPH/BPH - Fathur Roshin Haddinanta.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Fathur Roshin Haddinanta
-- **Jabatan:** [JABATAN]
-- **TTL:** [TTL]
-- **Nomer Handphone:** [NOMER_HANDPHONE]
+- **Jabatan:** SEKERTARIS 1
+- **TTL:** Tulungagung, 21 September 2005
+- **Nomer Handphone:** 085732860583
 - **Username GitHub:** @[USERNAME_GITHUB_03]
 - **Asal Daerah:** [KOTA/KABUPATEN]
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
