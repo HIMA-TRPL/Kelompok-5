@@ -441,7 +441,7 @@
 * **Alasan Masuk TRPL:** pengen belajar hal baru
 
 ### [37] 264311037 - ANASTASYA SILVIA MONICA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037 - ANASTASYA SILVIA MONICA.jpeg" alt="Foto ANASTASYA SILVIA MONICA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037 - ANASTASYA SILVIA MONICA.jpg" alt="Foto ANASTASYA SILVIA MONICA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANASTASYA SILVIA MONICA
 * **NIM:** 264311037
 * **TTL:** Kota Magetan, 5 Juni 2008
@@ -453,7 +453,7 @@
 * **Alasan Masuk TRPL:** ketolak UM dan UNS
 
 ### [38] 264311038 - ARDHAN IRSYAD MAULANA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038 - ARDHAN IRSYAD MAULANA.jpeg" alt="Foto ARDHAN IRSYAD MAULANA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038 - ARDHAN IRSYAD MAULANA.jpg" alt="Foto ARDHAN IRSYAD MAULANA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ARDHAN IRSYAD MAULANA
 * **NIM:** 264311038
 * **TTL:** KOTA MADIUN, 16 JUNI 2007
@@ -537,7 +537,7 @@
 * **Alasan Masuk TRPL:** pengen kaya
 
 ### [45] 264311045 - KEYLILA EDENIA VINCA SUSANTO
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045 - KEYLILA EDENIA VINCA SUSANTO.jpeg" alt="Foto KEYLILA EDENIA VINCA SUSANTO" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045 - KEYLILA EDENIA VINCA SUSANTO.jpg" alt="Foto KEYLILA EDENIA VINCA SUSANTO" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO
 * **NIM:** 264311045
 * **TTL:** KOTA MADIUN, 18 AGUSTUS 2007
@@ -564,13 +564,13 @@
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047 - MOHAMAD FATIR.jpeg" alt="Foto MOHAMAD FATIR" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MOHAMAD FATIR
 * **NIM:** 264311047
-* **TTL:** 
-* **Nomer Handphone:**
-* **Nama Kelompok:** 
-* **Asal Daerah:** 
-* **Asal Sekolah:** 
-* **Fun Fact:** 
-* **Alasan Masuk TRPL:** 
+* **TTL:** MADIUN, 22 MEI 2007
+* **Nomer Handphone:** 085855805726
+* **Nama Kelompok:** EXPRESS
+* **Asal Daerah:** KAB.MADIUN
+* **Asal Sekolah:** SMKN 1 GEGER
+* **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
+* **Alasan Masuk TRPL:** KARENA MINAT
 
 ### [48] 264311048 - Muhammad Amirul Hafidz
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048 - Muhammad Amirul Hafidz.jpeg" alt="Foto Muhammad Amirul Hafidz" style="object-fit:cover" width="300px" height="300px">
@@ -680,8 +680,8 @@
 * **Fun Fact:** FANS KING EMYU
 * **Alasan Masuk TRPL:** pengen wfh
 
-### [57] 264311057 - Roefando Adji Ramadhan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057 - Roefando Adji Ramadhan.jpeg" alt="Foto Roefando Adji Ramadhan" style="object-fit:cover" width="300px" height="300px">
+### [57] 264311057 - ROEFANDO ADJI RAMADHAN
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057 - ROEFANDO ADJI RAMADHAN.jpg" alt="Foto Roefando Adji Ramadhan" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Roefando Adji Ramadhan
 * **NIM:** 264311057
 * **TTL:** JAKARTA, 10 OKTOBER 2007
