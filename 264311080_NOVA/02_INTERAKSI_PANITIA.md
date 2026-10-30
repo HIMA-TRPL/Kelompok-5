@@ -88,9 +88,9 @@
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
-### [09] Dagri - [FIRDAUS_ILHAM_F.]
-* <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS_ILHAM_F..png" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [FIRDAUS_ILHAM_F.]
+### [09] Dagri - [FIRDAUS_ILHAM_FADHLURRAHMAN]
+* <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS_ILHAM_FAKHRUDDIN.png" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [FIRDAUS_ILHAM_FADHLURRAHMAN]
 * **Jabatan:** [ANGGOTA]
 * **TTL:** [MADIUN,_01_JANUARI_2007]
 * **Nomer Handphone:** [081977285545]
@@ -226,9 +226,9 @@
 * **Asal Daerah:** [NGANJUK]
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
-### [22] PSDM - [AZZA_AULIYAUL_F.]
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [AZZA_AULIYAUL_F.]
+### [22] PSDM - [AZZA_AULIYAUL_FITRI]
+* <img src="assets/PANITIA/PSDM/PSDM - AZZA_AULIYAUL_FITRI.png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [AZZA_AULIYAUL_FITRI]
 * **Jabatan:** -
 * **TTL:** -
 * **Nomer Handphone:** -
@@ -315,7 +315,7 @@
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] PDD - [RAIHAN_FIRDAUS_ALFARITSI]
-* <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - RAIHAN_FIRDAUS_ALFARITSI.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RAIHAN_FIRDAUS_ALFARITSI]
 * **Jabatan:** -
 * **TTL:** -
@@ -378,9 +378,9 @@
 * **Asal Daerah:** [MOJOKERTO]
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
-### [36] DKM - [DHEANDRA_KHAIRUNNISA_P.]
-* <img src="assets/PANITIA/DKM/DKM - DHEANDRA_KHAIRUNNISA_P..png" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [DHEANDRA_KHAIRUNNISA_P.]
+### [36] DKM - [DHEANDRA_KHAIRUNNISA_PAMBUDI]
+* <img src="assets/PANITIA/DKM/DKM - DHEANDRA_KHAIRUNNISA_PAMBUDI.png" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [DHEANDRA_KHAIRUNNISA_PAMBUDI]
 * **Jabatan:** [SIE_KESEHATAN]
 * **TTL:** [MADIUN,_27_SEPTEMBER_2005]
 * **Nomer Handphone:** [085812382730]
@@ -480,6 +480,16 @@
 * **Nomer Handphone:** [85731873063]
 * **Username GitHub:** @[nanayaaa]
 * **Asal Daerah:** [MADIUN]
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - [GALANG]
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [GALANG]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** []
+* **Nomer Handphone:** []
+* **Username GitHub:** @[]
+* **Asal Daerah:** []
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ---
