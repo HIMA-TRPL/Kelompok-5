@@ -339,7 +339,7 @@
 ## 🏫 Kelas 1B
 
 ### [31] [264311031] - [AHMAD_MUJADID_MUSYAFII]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031 - AHMAD MUJADID MUSYAFII.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031 - AHMAD MUJADID MUSYAFI'I.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AHMAD_MUJADID_MUSYAFII]
 * **NIM:** [264311070]
 * **TTL:** [MAGETAN,9_DESEMBER_2007]
