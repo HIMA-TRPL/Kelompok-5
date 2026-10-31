@@ -350,7 +350,7 @@
 * **Fun Fact:** [TIDAK_KUAT_DENGAN_MAKANAN_MAKANAN_PEDAS]
 
 ### [32] [264311032] - [AHMAD_RAISYA_AL_IQSAN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032 - AHMAD RAISYA ALIQSAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032 - AHMAD RAISYA AL IQSAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AHMAD_RAISYA_AL_IQSAN]
 * **NIM:** [264311032]
 * **TTL:** [PONOROGO,27_NOVEMBER_2007]
@@ -559,7 +559,7 @@
 * **Fun Fact:** [GABUT_DIKIT_PENGEN_MAKAN]
 
 ### [51] [264311051] - [NAZHWA_AL_KARANA_PUTRI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051 - NAZHWA AL KARANA PUTRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051 - Nazhwa Ai Karana Putri.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAZHWA_AL_KARANA_PUTRI]
 * **NIM:** [264311051]
 * **TTL:** [NGAWI,28_DESEMBER_2008]
