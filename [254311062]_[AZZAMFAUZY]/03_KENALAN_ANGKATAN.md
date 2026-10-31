@@ -718,7 +718,7 @@
 * **Fun Fact:** [CINTA_MATI_UB]
 
 ### [65] [264311066] - [DWI_RISKI_NUGROHO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311066 - DWI RISKI NUGROHO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311066 - DWI RISKI NUGROHO .jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DWI_RISKI_NUGROHO]
 * **NIM:** [264311066]
 * **TTL:** [PONOROGO,22_APRIL_2007]
