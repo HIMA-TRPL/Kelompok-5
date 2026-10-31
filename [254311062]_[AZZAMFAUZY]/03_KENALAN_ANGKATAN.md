@@ -559,7 +559,7 @@
 * **Fun Fact:** [GABUT_DIKIT_PENGEN_MAKAN]
 
 ### [51] [264311051] - [NAZHWA_AL_KARANA_PUTRI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051 - Nazhwa Ai Karana Putri.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051 - Nazhwa Al Karana Putri.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAZHWA_AL_KARANA_PUTRI]
 * **NIM:** [264311051]
 * **TTL:** [NGAWI,28_DESEMBER_2008]
